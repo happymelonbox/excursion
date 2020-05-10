@@ -1,0 +1,11 @@
+html {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    background-color: black;
+}
+
+.main-header {
+    text-align: center;
+    color: white;
+    font-size: 3.125rem;
+}
